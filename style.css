@@ -1,0 +1,213 @@
+@media screen and (max-width: 1020px){
+#LOGO{
+    text-align: center;
+    display: block;
+    padding: 15px;
+    width: 100%;
+    height: auto;
+}
+#TITLE{
+    text-align: center;
+    color : white;
+    font-family: 'Rubik', sans-serif;
+}
+#BreadText{
+    color : white;
+    font-family: "Roboto", sans-serif;
+    Top: 100%;
+}
+#Info{
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+#title{
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+#trailertitle{
+    color: white;
+}
+#HOODIE{
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+#TEESHIRT{
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+#CAP{
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+#contact{
+    color: white;
+}
+#LINK{
+    color: blue;
+}
+#development{
+    color: white;
+}
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+
+/*
+*/
+
+#ID{
+    position: absolute;
+    top: 300px
+}
+
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 220px;
+    top: 200px
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    color: white;
+    padding: 15px;
+    text-align: center;
+  }
+
+}
+
+#LOGO{
+  text-align: center;
+  display: block;
+  padding: 15px;
+}
+#TITLE{
+  text-align: center;
+  color : white;
+  font-family: 'Rubik', sans-serif;
+}
+#BreadText{
+  color : white;
+  font-family: "Roboto", sans-serif;
+  Top: 100%;
+}
+#Info{
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+#title{
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+#trailertitle{
+  color: white;
+}
+#HOODIE{
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+#TEESHIRT{
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+#CAP{
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+#contact{
+  color: white;
+}
+#LINK{
+  color: blue;
+}
+
+ul {
+  list-style-type: none;
+  margin: 10;
+  padding: 10;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+
+/*
+*/
+
+#ID{
+  position: absolute;
+  top: 300px
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 220px;
+  top: 200px
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
